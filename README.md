@@ -1,6 +1,5 @@
 ## Hi there 👋 (yep, I'm never deleting the default message)
-I'm just getting started on Github, and... That's it. I'll (probably) update this
-as I (hopefully) advance in my learning of Github, and programming in general.
+I'm just getting started on Github, and... That's it. I'll (probably) update this as I (hopefully) advance in my learning of Github, and programming in general.
 
 Good luck, with whatever you're doing (which hopefully is much more productive than reading my profile).
 
